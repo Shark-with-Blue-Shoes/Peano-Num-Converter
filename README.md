@@ -1,9 +1,9 @@
-# Peano <-> number converter
+# Peano to/from number converter
 
-This is a simple python script that can convert numbers from normal to peano form and back
+This is a simple python script that can convert numbers to Peano notation and vice versa.
 
-From peano to number:
-python convert.py "S(S(S(S(S(O)))))"
+From Peano to number:
+`python convert.py "S(S(S(S(S(O)))))"`
 
-From number to peano:
-python convert.py 5
+From number to Peano:
+`python convert.py 5`
